@@ -1,6 +1,6 @@
 # Post-Silence Aesthetics: Revisiting Identity in the Art of the Algorithmic Age
 
-**DOI:** [https://doi.org/10.5281/zenodo.21642796]
+**DOI:** https://doi.org/10.5281/zenodo.21642796
 
 ---
 
@@ -21,7 +21,7 @@ Post-Silence Aesthetics, Algorithmic Culture, Contemporary Art, Identity, Artifi
 ## Article Details
 
 | **Title** | Post-Silence Aesthetics: Revisiting Identity in the Art of the Algorithmic Age |
-| **Author** | [Haleh Ghoorchian] |
+| **Author** | Haleh Ghoorchian |
 | **Published** | 2026 |
 | **Publisher** | Nebešt Foundation |
 | **License** | CC BY-NC 4.0 |
@@ -30,8 +30,8 @@ Post-Silence Aesthetics, Algorithmic Culture, Contemporary Art, Identity, Artifi
 
 ## Links
 
-- [Read on Zenodo](https://doi.org/10.5281/zenodo.21642796)
-- [View on Nebešt](https://namiraholdingcompany.com/brands-nebest-foundation-post-silence-aesthetics/)
+- Zenodo (https://doi.org/10.5281/zenodo.21642796)
+- Nebešt (https://namiraholdingcompany.com/brands-nebest-foundation-post-silence-aesthetics/)
 
 ---
 
