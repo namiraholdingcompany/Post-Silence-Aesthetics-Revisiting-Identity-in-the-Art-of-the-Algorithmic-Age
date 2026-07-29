@@ -1,6 +1,6 @@
 # Post-Silence Aesthetics: Revisiting Identity in the Art of the Algorithmic Age
 
-**DOI:** (https://doi.org/10.5281/zenodo.21642796)
+[**DOI:**] (https://doi.org/10.5281/zenodo.21642796)
 
 ---
 
