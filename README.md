@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Abstract
+## Abstract
 
 This article examines the emergence of "post-silence aesthetics" in contemporary art, a condition wherein algorithmic mediation has fundamentally altered the relationship between human subjectivity, artistic authorship, and the experience of identity. Drawing upon recent scholarship in visual culture studies, digital aesthetics, and posthumanist theory, the article argues that the algorithmic turn has inaugurated a new aesthetic regime characterised by the dissolution of traditional authorial boundaries, the emergence of collective and anonymous production, and the transformation of aesthetic experience from individual contemplation to distributed, machine-mediated encounter.
 
